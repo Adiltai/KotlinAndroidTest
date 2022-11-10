@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Library</string>
+    <string name="accept">ok</string>
+    <string name="btn_name1">green</string>
+    <string name="btn_name2">red</string>
+    <string name="btn_name3">yellow</string>
+</resources>
